@@ -1,13 +1,13 @@
 package counter;
 
-public class ThreeDigit extends CountDigitState{
-    ThreeDigit(Counter counter){
+public class TripleDigit extends CountDigitState{
+    TripleDigit(Counter counter){
         super(counter);
     }
 
     private void checkForUpgrade(){
         if(counter.getCount() < 100){
-            CountDigitState newState = new TwoDigit(counter);
+            CountDigitState newState = new DoubleDigit(counter);
             counter.setCountDigitState(newState);
         }
     }

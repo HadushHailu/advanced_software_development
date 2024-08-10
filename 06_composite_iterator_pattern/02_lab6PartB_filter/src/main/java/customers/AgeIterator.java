@@ -2,11 +2,11 @@ package customers;
 
 import java.util.*;
 
-public class AgeIterator<C extends Customer> implements Iterator<C> {
-    private List<C> sortedCustomers;
+public class AgeIterator<T extends Customer> implements Iterator<T> {
+    private List<T> sortedCustomers;
     private int currentIndex;
 
-    public AgeIterator(List<C> customers) {
+    public AgeIterator(List<T> customers) {
         sortedCustomers = new ArrayList<>(customers);
         sortedCustomers.sort(Comparator.comparingInt(Customer::getAge));
         currentIndex = 0;
@@ -18,7 +18,7 @@ public class AgeIterator<C extends Customer> implements Iterator<C> {
     }
 
     @Override
-    public C next() {
+    public T next() {
         if (!hasNext()) {
             throw new NoSuchElementException();
         }

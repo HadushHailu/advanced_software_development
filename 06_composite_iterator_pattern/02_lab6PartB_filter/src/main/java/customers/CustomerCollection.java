@@ -2,6 +2,7 @@ package customers;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.function.Predicate;
 
 public class CustomerCollection {
 	List<Customer> customers = new ArrayList<Customer>();
@@ -18,6 +19,10 @@ public class CustomerCollection {
 
 	public AgeIterator<Customer> ageIterator() {
 		return new AgeIterator<>(customers);
+	}
+
+	public AddressFilterIterator<Customer> filterIterator(Predicate<Customer> predicate){
+		return new AddressFilterIterator<Customer>(customers, predicate);
 	}
 
 }

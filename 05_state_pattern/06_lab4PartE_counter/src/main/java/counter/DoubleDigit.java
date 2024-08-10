@@ -1,17 +1,17 @@
 package counter;
 
-public class TwoDigit extends CountDigitState{
-    TwoDigit(Counter counter){
+public class DoubleDigit extends CountDigitState{
+    DoubleDigit(Counter counter){
         super(counter);
     }
 
     private void checkForUpgrade(){
         if(counter.getCount() >= 100){
-            CountDigitState newState = new ThreeDigit(counter);
+            CountDigitState newState = new TripleDigit(counter);
             counter.setCountDigitState(newState);
         }
         if(counter.getCount() < 10){
-            CountDigitState newState = new OneDigit(counter);
+            CountDigitState newState = new SingleDigit(counter);
             counter.setCountDigitState(newState);
         }
     }

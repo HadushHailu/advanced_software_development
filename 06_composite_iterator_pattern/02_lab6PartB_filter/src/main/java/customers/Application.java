@@ -1,6 +1,7 @@
 package customers;
 
 import java.util.*;
+import java.util.function.Predicate;
 
 public class Application {
 
@@ -17,13 +18,13 @@ public class Application {
 		customerCollection.add(new Customer("Joe","Johnson","jj@gmail.com","0643256743",48, new Address("453 N C Street","Chicago","59223")));
 		customerCollection.add(new Customer("Frank","Cohen","fcohen@gmail.com","0643232178",53, new Address("Jeffersen Av 3","New York","54221")));
 		customerCollection.add(new Customer("Eric","Johnson","ejohnson@hotmail.com","0612342345",36, new Address("1000 S 4th street","San Fransisco","12544")));
-
 		customerCollection.print();
-		AgeIterator<Customer> ageIterator = customerCollection.ageIterator();
 
-		while (ageIterator.hasNext()) {
-			Customer customer = ageIterator.next();
-			System.out.println(customer.getFirstName() + ": " + customer.getAge());
+		Predicate<Customer> predicate = p->p.getAddress().getCity().equals("Chicago") && p.getAddress().getZip().startsWith("12");
+		AddressFilterIterator<Customer> addressFilterIterator = customerCollection.filterIterator(predicate);
+		System.out.println("-- Filtered customers -- ");
+		while (addressFilterIterator.hasNext()) {
+			System.out.println(addressFilterIterator.next());
 		}
 
 	}

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cab20b2-6157-4ee8-a99e-ed107c7cdfa9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../02_command_pattern/07_lab2PartG_paint/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../04_observer_pattern/resource/solutions/counterWithObserver-3/counterWithObserver/.idea/counterWithObserver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_chain_of_responsibility_pattern/03_lab7PartC_interstatecamerasystemlab/.idea/03_lab7PartC_interstatecamerasystemlab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_chain_of_responsibility_pattern/06_lab7PartF_counter/src/main/java/dao/CounterDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_chain_of_responsibility_pattern/06_lab7PartF_counter/src/main/java/domain/CountForLoggersObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_chain_of_responsibility_pattern/06_lab7PartF_counter/src/main/java/domain/CounterHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_chain_of_responsibility_pattern/06_lab7PartF_counter/src/main/java/domain/EvenCounterGreaterThan10Not_12_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_chain_of_responsibility_pattern/06_lab7PartF_counter/src/main/java/domain/EvenCounterLessThan10_12_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_chain_of_responsibility_pattern/06_lab7PartF_counter/src/main/java/domain/ICountForFramesObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_chain_of_responsibility_pattern/06_lab7PartF_counter/src/main/java/domain/ICountFroLoggersObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_chain_of_responsibility_pattern/06_lab7PartF_counter/src/main/java/domain/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_chain_of_responsibility_pattern/06_lab7PartF_counter/src/main/java/domain/OddCounterGreaterThan15Not_17_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../07_chain_of_responsibility_pattern/06_lab7PartF_counter/src/main/java/domain/OddCounterLessThan15_17_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../08_mediator_proxy_adaptor_pattern/01_lab8PartA_bank/src/main/java/bank/service/LoggingProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../08_mediator_proxy_adaptor_pattern/01_lab8PartA_bank/src/main/java/bank/service/TimingProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../08_mediator_proxy_adaptor_pattern/02_lab8PartB_adapter/src/main/java/bank/service/AccountAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../08_mediator_proxy_adaptor_pattern/02_lab8PartB_adapter/src/main/java/bank/service/AccountDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../08_mediator_proxy_adaptor_pattern/02_lab8PartB_adapter/src/main/java/bank/service/AccountEntryAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../08_mediator_proxy_adaptor_pattern/02_lab8PartB_adapter/src/main/java/bank/service/AccountEntryDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../08_mediator_proxy_adaptor_pattern/02_lab8PartB_adapter/src/main/java/bank/service/CustomerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../08_mediator_proxy_adaptor_pattern/02_lab8PartB_adapter/src/main/java/bank/service/CustomerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/src/main/java/customer/CustomerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/src/main/java/customer/aop/LoggerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/src/main/java/customer/dao/CustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/src/main/java/customer/dao/ICustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/src/main/java/customer/dao/MockCustomerDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/src/main/java/customer/domain/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/src/main/java/customer/domain/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/src/main/java/customer/integration/EmailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/src/main/java/customer/integration/ILogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/src/main/java/customer/integration/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/src/main/java/customer/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/src/main/java/customer/service/ICustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Lab13PartA_a_customer/src/test/java/customer/CustomerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/03_lab4partC_bank.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/src/main/java/counter/CountObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/src/main/java/counter/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/src/main/java/counter/ICountObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/src/main/java/counter/JFrameCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/src/main/java/counter/OvalFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/src/main/java/counter/RectFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/src/main/java/counter/TextFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/target/classes/counter/CountObservable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/target/classes/counter/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/target/classes/counter/ICountObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/target/classes/counter/JFrameCounter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/target/classes/counter/JFrameCounter$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/target/classes/counter/JFrameCounter$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/target/classes/counter/JFrameCounter$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/target/classes/counter/JFrameCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/target/classes/counter/OvalFrame$SymWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/target/classes/counter/OvalFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/target/classes/counter/RectFrame$SymWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/target/classes/counter/RectFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/target/classes/counter/TextFrame$SymWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/06_lab2PartF_counter/target/classes/counter/TextFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/src/main/java/counter/CountObservable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/src/main/java/counter/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/src/main/java/counter/HistoryList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/src/main/java/counter/ICommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/src/main/java/counter/ICountObserver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/src/main/java/counter/JFrameCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/src/main/java/counter/OvalFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/src/main/java/counter/RectFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/src/main/java/counter/TextFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/src/main/java/counter/decrementCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/src/main/java/counter/incrementCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/CountObservable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/HistoryList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/ICommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/ICountObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/JFrameCounter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/JFrameCounter$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/JFrameCounter$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/JFrameCounter$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/JFrameCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/OvalFrame$SymWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/OvalFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/RectFrame$SymWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/RectFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/TextFrame$SymWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/TextFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/decrementCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/07_lab2PartG_counter/target/classes/counter/incrementCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/src/main/java/automatic_gate/BuzzerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/src/main/java/automatic_gate/Gate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/src/main/java/automatic_gate/GateController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/src/main/java/automatic_gate/Remote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/src/main/java/automatic_gate/Sensor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/src/main/java/automatic_gate/States.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/src/main/java/automatic_gate/application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/src/main/java/automatic_gate/lightController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/target/classes/automatic_gate/BuzzerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/target/classes/automatic_gate/Gate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/target/classes/automatic_gate/GateController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/target/classes/automatic_gate/Remote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/target/classes/automatic_gate/Sensor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/target/classes/automatic_gate/States.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/target/classes/automatic_gate/application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_observer_pattern/08_lab2PartH_atomatic_gate/target/classes/automatic_gate/lightController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/03_lab5PartC_game/src/main/java/game/Level1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/03_lab5PartC_game/src/main/java/game/Level1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/03_lab5PartC_game/src/main/java/game/Level2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/03_lab5PartC_game/src/main/java/game/Level2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/03_lab5PartC_game/src/main/java/game/Level2_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/03_lab5PartC_game/src/main/java/game/Level2_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/03_lab5PartC_game/src/main/java/game/Level3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/03_lab5PartC_game/src/main/java/game/Level3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/03_lab5PartC_game/src/main/java/game/LevelState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/03_lab5PartC_game/src/main/java/game/LevelState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/06_lab4PartE_counter/src/main/java/counter/CountDigitState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/06_lab4PartE_counter/src/main/java/counter/CountDigitState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/06_lab4PartE_counter/src/main/java/counter/DoubleDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/06_lab4PartE_counter/src/main/java/counter/DoubleDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/06_lab4PartE_counter/src/main/java/counter/SingleDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/06_lab4PartE_counter/src/main/java/counter/SingleDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/06_lab4PartE_counter/src/main/java/counter/TripleDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/06_lab4PartE_counter/src/main/java/counter/TripleDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/07_lab5PartG_gate/src/main/java/automatic_gate/Closed.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/07_lab5PartG_gate/src/main/java/automatic_gate/Closed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/07_lab5PartG_gate/src/main/java/automatic_gate/Closing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/07_lab5PartG_gate/src/main/java/automatic_gate/Closing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/07_lab5PartG_gate/src/main/java/automatic_gate/GateState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/07_lab5PartG_gate/src/main/java/automatic_gate/GateState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/07_lab5PartG_gate/src/main/java/automatic_gate/Open.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/07_lab5PartG_gate/src/main/java/automatic_gate/Open.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/07_lab5PartG_gate/src/main/java/automatic_gate/Opening.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/07_lab5PartG_gate/src/main/java/automatic_gate/Opening.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05_state_pattern/07_lab5PartG_gate/src/main/java/automatic_gate/StandStill.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../05_state_pattern/07_lab5PartG_gate/src/main/java/automatic_gate/StandStill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_composite_iterator_pattern/01_lab6PartA_customers/src/main/java/customers/AgeIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_composite_iterator_pattern/01_lab6PartA_customers/src/main/java/customers/AgeIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_composite_iterator_pattern/02_lab6PartB_filter/src/main/java/customers/AddressFilterIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_composite_iterator_pattern/02_lab6PartB_filter/src/main/java/customers/AddressFilterIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_composite_iterator_pattern/02_lab6PartB_filter/src/main/java/customers/AgeIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_composite_iterator_pattern/02_lab6PartB_filter/src/main/java/customers/AgeIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_composite_iterator_pattern/02_lab6PartB_filter/src/main/java/customers/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_composite_iterator_pattern/02_lab6PartB_filter/src/main/java/customers/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_composite_iterator_pattern/02_lab6PartB_filter/src/main/java/customers/CustomerCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_composite_iterator_pattern/02_lab6PartB_filter/src/main/java/customers/CustomerCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_composite_iterator_pattern/02_lab6PartB_filter/target/classes/customers/AgeIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_composite_iterator_pattern/02_lab6PartB_filter/target/classes/customers/AgeIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_composite_iterator_pattern/02_lab6PartB_filter/target/classes/customers/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_composite_iterator_pattern/02_lab6PartB_filter/target/classes/customers/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_composite_iterator_pattern/02_lab6PartB_filter/target/classes/customers/CustomerCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_composite_iterator_pattern/02_lab6PartB_filter/target/classes/customers/CustomerCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_composite_iterator_pattern/03_lab6PartC_skip/src/main/java/customers/Catalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_composite_iterator_pattern/03_lab6PartC_skip/src/main/java/customers/Catalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_composite_iterator_pattern/03_lab6PartC_skip/src/main/java/customers/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_composite_iterator_pattern/03_lab6PartC_skip/src/main/java/customers/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_composite_iterator_pattern/03_lab6PartC_skip/src/main/java/customers/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_composite_iterator_pattern/03_lab6PartC_skip/src/main/java/customers/Product.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2kLF2VrAnqF8Y8JGLcdrNlYnqOU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CustomerApplication.executor": "Run",
+    "Maven.customer [clean].executor": "Run",
+    "Maven.customer [compile].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/hadush/Documents/advanced_software_development/13_framework_design/02_Lab13PartA_b_customer"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.." />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="customer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cab20b2-6157-4ee8-a99e-ed107c7cdfa9" name="Changes" comment="" />
+      <created>1723054742113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723054742113</updated>
+    </task>
+    <servers />
+  </component>
+</project>
