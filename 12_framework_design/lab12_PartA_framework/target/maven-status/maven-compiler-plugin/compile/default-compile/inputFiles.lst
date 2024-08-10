@@ -1,0 +1,16 @@
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/dao/OrderDAO.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/dao/ProductDAO.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/dao/ShoppingCartDAO.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/domain/Address.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/domain/CartLine.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/domain/CreditCardPayment.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/domain/Customer.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/domain/Order.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/domain/Payment.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/domain/PaymentType.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/domain/Product.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/domain/ShoppingCart.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/integration/EmailSender.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/service/OrderService.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/service/ProductService.java
+/home/hadush/Documents/advanced_software_development/12_framework_design/lab12_PartA_framework/src/main/java/org/ShoppingFramework/service/ShoppingCartService.java

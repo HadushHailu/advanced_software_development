@@ -1,0 +1,11 @@
+/home/hadush/Documents/advanced_software_development/11_framework_design/04_Lab11Part2_c_framework/src/main/java/org/carframework/HistoryList.java
+/home/hadush/Documents/advanced_software_development/11_framework_design/04_Lab11Part2_c_framework/src/main/java/org/carframework/domain/Below70.java
+/home/hadush/Documents/advanced_software_development/11_framework_design/04_Lab11Part2_c_framework/src/main/java/org/carframework/domain/Car.java
+/home/hadush/Documents/advanced_software_development/11_framework_design/04_Lab11Part2_c_framework/src/main/java/org/carframework/domain/CarState.java
+/home/hadush/Documents/advanced_software_development/11_framework_design/04_Lab11Part2_c_framework/src/main/java/org/carframework/domain/HigherThan70.java
+/home/hadush/Documents/advanced_software_development/11_framework_design/04_Lab11Part2_c_framework/src/main/java/org/carframework/integration/Logger.java
+/home/hadush/Documents/advanced_software_development/11_framework_design/04_Lab11Part2_c_framework/src/main/java/org/carframework/integration/Observer.java
+/home/hadush/Documents/advanced_software_development/11_framework_design/04_Lab11Part2_c_framework/src/main/java/org/carframework/service/FasterCommand.java
+/home/hadush/Documents/advanced_software_development/11_framework_design/04_Lab11Part2_c_framework/src/main/java/org/carframework/service/ICommand.java
+/home/hadush/Documents/advanced_software_development/11_framework_design/04_Lab11Part2_c_framework/src/main/java/org/carframework/service/SlowerCommand.java
+/home/hadush/Documents/advanced_software_development/11_framework_design/04_Lab11Part2_c_framework/src/main/java/org/carframework/service/Subject.java
